@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+}
+
+nav {
+  text-align: center;
+  padding: 30px;
+  width: 100%;
+  background-color: #cdcdcd;
+}
+
+nav h1 h2 {
+  padding: 20px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+p {
+  padding: 10px;
+  text-align: center;
+}
+
+h3 {
+  padding: 10px;
+  text-align: center;
+}
+
+ol {
+  list-style-type: circle;
+}
+
+ul {
+  margin: 2px;
+  text-align: center;
+}
+
+.biography {
+  text-align: center;
+  background-color: #cdcdcd;
+}
+
+.biography ul li {
+  list-style-type: decimal-leading-zero;
+}
